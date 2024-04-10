@@ -1,0 +1,9 @@
+*{
+  margin: 0; padding: 0; box-sizing: border-box;
+}
+.abzac{
+  font-size: 60px;
+  color: rgb(218, 15, 140);
+  background-color: rgb(245, 180, 216);
+  text-align: center;
+}
